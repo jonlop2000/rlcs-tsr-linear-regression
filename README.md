@@ -1,2 +1,0 @@
-# rlcs-tsr-linear-regression
-
